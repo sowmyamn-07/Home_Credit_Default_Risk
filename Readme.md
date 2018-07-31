@@ -7,7 +7,6 @@ Home Credit is currently using various statistical and machine learning methods 
 Dataset:
 https://www.kaggle.com/c/home-credit-default-risk/data
 
-
 1. EDAHomeCredit file shows the data analysis part of the code
    - File and Filesize of the data
    - Data Analysis  - Visualizing distribution of data like types of loan, family status of applicant's, occupation of applicant's, education of applicat's
